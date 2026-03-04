@@ -1,0 +1,6 @@
+[project]
+name = "fin_agent_proj"
+version = "0.1.0"
+
+[tool.setuptools.packages.find]
+where = ["src"]
