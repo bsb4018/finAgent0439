@@ -208,3 +208,5 @@ __marimo__/
 
 
 finsenv/
+src/observability/loki-data/
+src/observability/tempo-data/
